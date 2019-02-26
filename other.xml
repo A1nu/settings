@@ -1,0 +1,72 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Downloads/idea_codestyle_scheme.xml" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v10.2.1/bin/node">
+      <version-cache version="10.2.1" last-modified="1527189467000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.9.0/bin/node">
+      <version-cache version="8.9.0" last-modified="1509467518000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AndroidPlatformName" value="Android API 28 Platform" />
+    <property name="ColorChooser.RecentColors" value="255-255-255-255,,,12-16-19-255,,,25-52-80-255,,,16-16-16-12,,,90-90-90-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.7661406" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.124455504" />
+    <property name="FrameworksFinderRecursivePanel[1]" value="0.123609394" />
+    <property name="IJ_BASE_PACKAGE" value="com.company" />
+    <property name="LiveContextsPanel[0]" value="0.1103144" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="PLUGIN_FILTER" value="Genymotion&#10;ge&#10;json&#10;sonar&#10;mongo" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="ProjectStructure.TopLevelElements" value="0.21972656" />
+    <property name="SearchEveryWhereHistory" value="home&#10;da&#10;footer&#10;head&#10;inde" />
+    <property name="SettingsSearchHistory" value="reposi&#10;settings&#10;cvs&#10;cv&#10;code style" />
+    <property name="SpringBeansModulesPanel[0]" value="0.10840108" />
+    <property name="SpringBeansModulesPanel[1]" value="0.1216545" />
+    <property name="SpringBeansModulesPanel[2]" value="0.13860014" />
+    <property name="SpringBeansModulesPanel[3]" value="0.16103059" />
+    <property name="TrendingPluginsSearchHistory" value="code re" />
+    <property name="Vcs.Log.Text.Filter.History" value="feature-35973" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="com.intellij.remoteServer.impl.runtime.ui.ServersToolWindowContent:com.intellij.remoteServer.impl.runtime.ui.DefaultRemoteServersViewContribution.0" value="300" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="evlsprt3.173" value="10" />
+    <property name="evlsprt3.181" value="10" />
+    <property name="evlsprt3.182" value="11" />
+    <property name="evlsprt3.183" value="13" />
+    <property name="export.settings.path" value="$USER_HOME$/Downloads/settings.jar" />
+    <property name="file.gist.reindex.count" value="278392" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="idea.background.editor" value="$USER_HOME$/Dropbox/img/Nova.jpg,15,scale,center" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="javaee.appServer.lastUsedIntegration" value="Tomcat Server" />
+    <property name="javaee.appServer.lastUsedServer" value="Tomcat 8.5.32" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="js.rename.search.for.text.occurrences" value="true" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="last.imported.location" value="$USER_HOME$/Downloads/android/sea.deep.octopus-link2sd.apk" />
+    <property name="lastTip" value="15" />
+    <property name="newly.installed.api.level" value="23" />
+    <property name="org.intellij.images.editor.actions.SetBackgroundImageDialog#recent" value="$USER_HOME$/Downloads/Nova_preview.jpeg" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="project.wizard.template" value="Maven" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Tabs and Indents" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="typescript.show.auto.import" value="true" />
+  </component>
+</application>
