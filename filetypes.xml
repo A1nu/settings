@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="countries" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
