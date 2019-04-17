@@ -4,6 +4,8 @@
       <set>
         <option value="javascript:S3317" />
         <option value="javascript:S3796" />
+        <option value="squid:S00120" />
+        <option value="squid:S106" />
       </set>
     </option>
   </component>
