@@ -6,6 +6,7 @@
         <option value="javascript:S3796" />
         <option value="squid:S00120" />
         <option value="squid:S106" />
+        <option value="squid:S1192" />
       </set>
     </option>
   </component>
