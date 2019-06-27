@@ -1,6 +1,8 @@
 <application>
   <component name="PathMacrosImpl">
-    <macro name="MAVEN_REPOSITORY" value="/Users/ainu/.m2/repository" />
+    <macro name="ANT_HOME" value="/usr/local/Cellar/ant/1.10.6/libexec" />
+    <macro name="JBOSS7_HOME" value="/Users/ainu/jboss-as-web-7.0.0.Final" />
     <macro name="KOTLIN_BUNDLED" value="/Users/ainu/Library/Application Support/JetBrains/Toolbox/apps/IDEA-U/ch-0/191.7479.19/IntelliJ IDEA.app/Contents/plugins/Kotlin/kotlinc" />
+    <macro name="MAVEN_REPOSITORY" value="/Users/ainu/.m2/repository" />
   </component>
 </application>
